@@ -14,7 +14,10 @@ public class Demineur {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        int mines;
+        int colonne;
+        int ligne;
+        int level;
     }
     
 }
